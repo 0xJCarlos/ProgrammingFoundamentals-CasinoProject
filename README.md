@@ -1,7 +1,7 @@
 # Casino Project Repository / Repositorio del Proyecto de Casino
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Archive for the final project of my Programming Foundamentals class that i took on my second semester of college.
+Archive for the final project of my Programming Fundamentals class that i took on my second semester of college.
 
 Respaldo del proyecto final de la clase de Fundamentos de Programación que tomé en segundo semestre de universidad.
 
